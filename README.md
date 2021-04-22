@@ -1,6 +1,6 @@
 # Study on Data Visualization
 - Line plot (matplitlib, plotly, bokeh, seaborn, altair)
-- Histogram
+- Histogram and Statistic
 - Analysis with data visualization only, no help of machine learning (seaborn)
-- Stock visualization, candle stick (matplotlib, mplfinance, bokeh)
+- Stock visualization - Candle stick (matplotlib, mplfinance, bokeh)
 - Visualization on Map (folium, seaborn, bokeh) 
